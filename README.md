@@ -26,3 +26,14 @@ This repo does not have a licence. This means that by default, it is All Rights 
  - Redistribute the Mod, unless the link you provide is the original. (CurseForge or GitHub)
  - Redistribute the Mod under a different name or Author.
  - 
+
+## Mod Page:
+[CosmosCraft]()
+
+## Development Team:
+ - TheCosmicNebula (Main Author)
+
+## Development Team Applications:
+ - Please feel free to email: thecosmicnebula_@outlook.com
+
+| 2021 @ TheCosmicNebula | TCN | All Rights Reserved (Except Where Specified) |
